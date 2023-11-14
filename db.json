@@ -1,0 +1,34 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "deepika ramulu",
+      "email": "abc@gmail.com",
+      "mobile": "987654321",
+      "roll": "1234567890",
+      "percent": "97",
+      "city": "krishnagiri",
+      "state": "tamil nadu"
+    },
+    {
+      "id": 2,
+      "name": "yaso",
+      "email": "abc@gmail.com",
+      "mobile": "987654321",
+      "roll": "1234567890",
+      "percent": "97",
+      "city": "krishnagiri",
+      "state": "tamil nadu"
+    },
+    {
+      "id": 3,
+      "name": "deepika",
+      "email": "abc123@gmail.com",
+      "mobile": "987654321",
+      "roll": "145792332",
+      "percent": "99",
+      "city": "bangalore",
+      "state": "karnataka"
+    }
+  ]
+}
